@@ -1,5 +1,7 @@
 # Medical-Chatbot-RAG# End-to-end-Medical-Chatbot-Generative-AI
 
+<img width="1470" alt="Screenshot 2024-12-28 at 12 39 00" src="https://github.com/user-attachments/assets/f78019ba-388f-45b2-9149-9f9eb3c78050" />
+
 
 # How to run?
 ### STEPS:
